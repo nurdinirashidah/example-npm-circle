@@ -6,7 +6,7 @@
   "description": "An example project to test dependency analysis tools with different dependencies specified in npm package.json.",
   "dependencies": {
      "kind-of": "6.0.2",
-     "sequelize": "3.35.1",
+     "sequelize": "3.35.2",
      "errorhandler": "1.3.4",
      "eslint-utils": "1.4.1",
      "mime": "1.4.1", 
